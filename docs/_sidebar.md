@@ -1,7 +1,9 @@
 * Resources
   * [Links](pages/resources-links.md)
   * [Tools](pages/resources-tools.md)
+  * [Inspiration](pages/resources-inspiration.md)
   * [Design](pages/resources-design.md)
+  * [Webish](pages/resources-webish.md)
 * Commands
   * [Random](pages/commands-random.md)
   * [Git](pages/commands-git.md)
